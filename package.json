@@ -1,0 +1,31 @@
+{
+  "name": "chopstick-utilities",
+  "description": "Chopstick utilities layer",
+  "keywords": [
+    "front-end",
+    "utilities",
+    "css",
+    "scss",
+    "framework",
+    "ITCSS"
+  ],
+  "version": "0.7.0",
+  "author": {
+    "name": "Wijs",
+    "email": "info@wijs.be",
+    "url": "http://wijs.be/"
+  },
+  "homepage": "http://getchopstick.com/",
+  "bugs": {
+    "url": "https://github.com/getchopstick/chopstick-utilities/issues",
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:getchopstick/chopstick-utilities.git"
+  },
+  "dependencies": {
+    "chopstick-settings": "0.7.0",
+    "chopstick-tools": "0.7.0"
+  }
+}
