@@ -25,7 +25,7 @@
     "url": "git@github.com:getchopstick/chopstick-utilities.git"
   },
   "dependencies": {
-    "chopstick-settings": "0.7.1",
+    "chopstick-settings": "0.7.2",
     "chopstick-tools": "0.7.1"
   }
 }
