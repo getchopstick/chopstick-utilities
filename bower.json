@@ -2,7 +2,7 @@
   "name": "chopstick-utilities",
   "description": "Chopstick utilities layer",
   "dependencies": {
-    "chopstick-settings": "0.7.1",
+    "chopstick-settings": "0.7.2",
     "chopstick-tools": "0.7.1"
   },
   "keywords": [
