@@ -9,7 +9,7 @@
     "framework",
     "ITCSS"
   ],
-  "version": "0.7.2",
+  "version": "0.7.3",
   "author": {
     "name": "Wijs",
     "email": "info@wijs.be",
@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "chopstick-settings": "0.7.2",
-    "chopstick-tools": "0.7.1"
+    "chopstick-tools": "0.7.2"
   }
 }
