@@ -9,7 +9,7 @@
     "framework",
     "ITCSS"
   ],
-  "version": "0.7.3",
+  "version": "0.7.5",
   "author": {
     "name": "",
     "email": "",
@@ -25,7 +25,7 @@
     "url": "git@github.com:getchopstick/chopstick-utilities.git"
   },
   "dependencies": {
-    "chopstick-settings": ">=0.7.3",
-    "chopstick-tools": ">=0.7.2"
+    "chopstick-settings": ">=0.7.4",
+    "chopstick-tools": ">=0.7.4"
   }
 }
